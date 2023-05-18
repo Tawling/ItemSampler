@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "kaptainwutax.itemsampler.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "item_sampler.refmap.json",
+  "mixins": [
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

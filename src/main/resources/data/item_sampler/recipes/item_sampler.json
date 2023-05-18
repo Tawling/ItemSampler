@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "IPI",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:string"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "item_sampler:item_sampler"
+  }
+}

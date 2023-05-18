@@ -1,0 +1,1 @@
+MixinConnector: kaptainwutax.itemsampler.MixinConnector
